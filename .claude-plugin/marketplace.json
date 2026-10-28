@@ -1,0 +1,11 @@
+{
+  "name": "human-voice",
+  "owner": { "name": "Anastasia" },
+  "plugins": [
+    {
+      "name": "human-voice",
+      "source": "./",
+      "description": "Редактор живого текста и тона бренда."
+    }
+  ]
+}
